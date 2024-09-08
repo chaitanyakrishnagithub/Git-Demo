@@ -11,3 +11,10 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+
+li {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
