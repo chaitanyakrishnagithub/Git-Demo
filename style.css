@@ -4,3 +4,10 @@ p {
   font-weight: bold;
   text-align: center;
 }
+
+h1 {
+  color: blue;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
